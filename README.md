@@ -1,14 +1,15 @@
-## Добро пожаловать!
+## Welcome
 
-* Развиваюсь во фронтенде один год
-* Стремлюсь работать в крупной компании с опытными разработчиками
-* Хочу принимать участие в разработке сложных и интересных проектов
-* Жадная до новых знаний, всегда готова изучать новые технологии для работы
+* I've been studying the frontend for one year
+* I strive to work in a large company with experienced developers
+* I want to take part in the development of complex and interesting projects
+* Hungry for new knowledge, always ready to learn new technologies for work
 
-### Мой стек
-* HTML/CSS
-* SASS, LESS, Stylus
+### My stach
 * JavaScript
 * React.js
+* Redux, Redux Toolkit
+* HTML/CSS
+* SASS/SCSS, LESS, Stylus
 * Webpack
 * Git
