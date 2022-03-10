@@ -8,8 +8,9 @@
 ### My stack
 * JavaScript
 * React.js
-* Redux, Redux Toolkit
+* Redux, Redux Toolkit, Redux Saga
 * HTML/CSS
 * SASS/SCSS, LESS, Stylus
+* Jest, Enzyme
 * Webpack
 * Git
